@@ -1,13 +1,7 @@
 var shop=[
-{
-	name:"Candle",
-	size:"Medium",
-	qty:2
-},
 
-{
-	name:"Phone Case",
-	type:"Samsung",
-	qty:1
-}
+{name:"Candle",size:"Medium",qty:2},
+
+{name:"Case",size:"Samsung",qty:1}
+
 ];
